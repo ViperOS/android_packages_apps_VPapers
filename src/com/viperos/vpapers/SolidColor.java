@@ -7,7 +7,7 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package org.aospextended.aexpapers;
+package com.viperos.vpapers;
 
 import android.app.Activity;
 import android.app.AlertDialog;
